@@ -2,3 +2,4 @@
 auth_keys.py
 challenge.txt
 ex.py
+__pycache__
